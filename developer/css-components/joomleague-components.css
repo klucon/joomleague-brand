@@ -1,0 +1,41 @@
+@import "../tokens/joomleague-tokens.css";
+
+.jl-button {
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  border: 0;
+  border-radius: var(--jl-radius-md);
+  padding: .65rem 1rem;
+  background: var(--jl-color-primary);
+  color: #fff;
+  font-family: var(--jl-font-family-sans);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.jl-badge {
+  display: inline-block;
+  border-radius: var(--jl-radius-pill);
+  padding: .25rem .6rem;
+  background: var(--jl-color-surface-muted);
+  color: var(--jl-color-text);
+  font-size: .875rem;
+  font-weight: 600;
+}
+
+.jl-alert {
+  border-left: 4px solid var(--jl-color-primary);
+  border-radius: var(--jl-radius-md);
+  padding: 1rem;
+  background: var(--jl-color-surface);
+  color: var(--jl-color-text);
+}
+
+.jl-card {
+  border: 1px solid var(--jl-color-border);
+  border-radius: var(--jl-radius-lg);
+  padding: 1.25rem;
+  background: var(--jl-color-white);
+  color: var(--jl-color-text);
+}

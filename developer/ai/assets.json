@@ -1,0 +1,157 @@
+{
+  "brand": {
+    "name": "JoomLeague",
+    "sport_neutral": true,
+    "primary_colors": {
+      "blue": "#0062A9",
+      "green": "#46B450",
+      "orange": "#F39C12",
+      "red": "#E74C3C"
+    },
+    "wordmark_split": {
+      "Joom": "blue",
+      "Le": "green",
+      "ag": "orange",
+      "ue": "red"
+    }
+  },
+  "recommended_assets": {
+    "browser_favicon_modern": "favicons/favicon.svg",
+    "browser_favicon_fallback": "favicons/favicon.ico",
+    "browser_favicon_small": "favicons/favicon-32x32.png",
+    "apple_touch": "favicons/apple-touch-icon.png",
+    "android_standard": "favicons/android-chrome-192x192.png",
+    "android_high_res": "favicons/android-chrome-512x512.png",
+    "android_maskable": "favicons/android-chrome-maskable-512x512.png",
+    "windows_tile": "favicons/mstile-150x150.png",
+    "safari_pinned_tab": "favicons/safari-pinned-tab.svg",
+    "linux_desktop": "developer/linux/joomleague-icon-256x256.png",
+    "windows_app": "developer/windows/joomleague-app-icon.ico",
+    "macos_app": "developer/macos/joomleague-app-icon-1024x1024.png",
+    "joomla_menu": "developer/svg/joomleague-symbol-currentcolor.svg",
+    "joomla_toolbar": "developer/svg/joomleague-symbol-outline.svg",
+    "small_ui_icon": "developer/svg/joomleague-symbol-flat.svg",
+    "dark_background_symbol": "developer/svg/joomleague-symbol-white.svg",
+    "light_background_symbol": "developer/svg/joomleague-symbol-blue.svg",
+    "social_preview": "social/joomleague-social-1200x630.png",
+    "github_banner": "banners/joomleague-github-1280x640.png",
+    "website_banner": "banners/joomleague-banner-1920x600.png",
+    "full_logo_light": "logos/joomleague-logo-on-light.png",
+    "full_logo_dark": "logos/joomleague-logo-on-dark.png",
+    "brand_manual_en": "brand-manual/en/JoomLeague-Brand-Manual-FINAL-v10-EN.pdf",
+    "brand_manual_cz": "brand-manual/cz/JoomLeague-Brand-Manual-FINAL-v10-CZ.pdf"
+  },
+  "selection_rules": [
+    {
+      "when": "size <= 24px",
+      "use": "developer/svg/joomleague-symbol-outline.svg"
+    },
+    {
+      "when": "size <= 48px",
+      "use": "developer/svg/joomleague-symbol-flat.svg"
+    },
+    {
+      "when": "CSS-colored UI icon",
+      "use": "developer/svg/joomleague-symbol-currentcolor.svg"
+    },
+    {
+      "when": "dark background",
+      "use": "developer/svg/joomleague-symbol-white.svg"
+    },
+    {
+      "when": "light background",
+      "use": "developer/svg/joomleague-symbol-blue.svg"
+    },
+    {
+      "when": "Android adaptive icon",
+      "use": "favicons/android-chrome-maskable-512x512.png"
+    },
+    {
+      "when": "social sharing",
+      "use": "social/joomleague-social-1200x630.png"
+    },
+    {
+      "when": "GitHub header",
+      "use": "banners/joomleague-github-1280x640.png"
+    },
+    {
+      "when": "browser tab",
+      "use": "favicons/favicon.svg with favicon.ico fallback"
+    }
+  ],
+  "constraints": [
+    "Do not use sport-specific imagery.",
+    "Do not use footballs, players, stadiums, jerseys, or other sport-specific backgrounds.",
+    "Use the standalone emblem for small icons.",
+    "Use the full wordmark only where text remains legible."
+  ],
+  "validation": {
+    "script": "developer/tools/validate_brand_kit.py",
+    "shell_wrapper": "developer/tools/validate-brand-kit.sh",
+    "ci_wrapper": "developer/tools/ci-validate.sh",
+    "github_actions": ".github/workflows/validate-brand-kit.yml",
+    "reports": {
+      "json": "validation-reports/validation-report.json",
+      "markdown": "validation-reports/validation-report.md"
+    },
+    "documentation": "developer/tools/README.md",
+    "codex_workflow": "developer/ai/VALIDATION_WORKFLOW.md"
+  },
+  "design_tokens": {
+    "css": "developer/tokens/joomleague-tokens.css",
+    "scss": "developer/tokens/_joomleague-tokens.scss",
+    "json": "developer/tokens/joomleague-tokens.json",
+    "documentation": "developer/tokens/README.md"
+  },
+  "brand_manual": {
+    "docx": "brand-manual/JoomLeague-Brand-Manual-FINAL-v8.docx",
+    "pdf": "brand-manual/JoomLeague-Brand-Manual-FINAL-v8.pdf"
+  },
+  "print": {
+    "reference_pdf": "print/JoomLeague-Print-Reference.pdf",
+    "color_csv": "print/JoomLeague-Print-Colors.csv",
+    "color_json": "print/JoomLeague-Print-Colors.json",
+    "logo_cmyk_tiff": "print/cmyk/joomleague-logo-CMYK-300dpi.tif",
+    "symbol_cmyk_tiff": "print/cmyk/joomleague-symbol-CMYK-300dpi.tif",
+    "pantone_guidance": "print/pantone-reference/PANTONE-REFERENCE.md"
+  },
+  "source_files": {
+    "figma_import": "sources/figma/IMPORT_TO_FIGMA.md",
+    "adobe_readme": "sources/adobe/README.md",
+    "vector_master": "sources/master/JoomLeague-Vector-Symbol-Master.svg",
+    "raster_logo_master": "sources/master/joomleague-logo-raster-master.png"
+  },
+  "v10_ecosystem": {
+    "dark_mode": "brand/dark-mode",
+    "high_contrast": "brand/accessibility-high-contrast",
+    "production": "production",
+    "press_kit": "press-kit",
+    "media_kit": "media-kit",
+    "social_media": "social-media",
+    "youtube": "youtube",
+    "community": "community/discord-forum",
+    "marketplace": "marketplace/joomla",
+    "release_templates": "releases/templates",
+    "version_badges": "badges/version",
+    "status_badges": "badges/status",
+    "docs_headers": "documentation/headers",
+    "presentation_template": "presentation/JoomLeague-Presentation-Template.pptx",
+    "document_template": "documents/JoomLeague-Document-Template.docx",
+    "email_signature": "email/email-signature.html",
+    "newsletter_headers": "newsletter",
+    "css_components": "developer/css-components/joomleague-components.css",
+    "bootstrap_variables": "developer/bootstrap/_joomleague-bootstrap-variables.scss",
+    "joomla_admin_tokens": "developer/joomla-admin/joomleague-admin-tokens.css",
+    "web_component": "developer/web-components/joomleague-icon.js",
+    "svg_sprite": "developer/svg-sprite/joomleague-icons.svg",
+    "npm_package": "developer/packages/npm/package.json",
+    "composer_package": "developer/packages/composer/composer.json",
+    "auto_selector_cli": "developer/cli/jl-asset"
+  },
+  "brand_manual_v10": {
+    "english_docx": "brand-manual/en/JoomLeague-Brand-Manual-FINAL-v10-EN.docx",
+    "english_pdf": "brand-manual/en/JoomLeague-Brand-Manual-FINAL-v10-EN.pdf",
+    "czech_docx": "brand-manual/cz/JoomLeague-Brand-Manual-FINAL-v10-CZ.docx",
+    "czech_pdf": "brand-manual/cz/JoomLeague-Brand-Manual-FINAL-v10-CZ.pdf"
+  }
+}

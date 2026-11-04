@@ -1,0 +1,32 @@
+Apple / Android icon variants
+==============================
+Apple variants:
+- apple-touch-icon-white.png
+- apple-touch-icon-blue.png
+- apple-touch-icon-transparent.png
+
+Android variants:
+- android-chrome-192x192-white.png
+- android-chrome-192x192-blue.png
+- android-chrome-192x192-transparent.png
+- android-chrome-512x512-white.png
+- android-chrome-512x512-blue.png
+- android-chrome-512x512-transparent.png
+
+Android maskable variants:
+- android-chrome-maskable-192x192-white.png
+- android-chrome-maskable-192x192-blue.png
+- android-chrome-maskable-192x192-transparent.png
+- android-chrome-maskable-512x512-white.png
+- android-chrome-maskable-512x512-blue.png
+- android-chrome-maskable-512x512-transparent.png
+
+Manifest variants:
+- site-white.webmanifest
+- site-blue.webmanifest
+- site-transparent.webmanifest
+
+Recommended defaults:
+- Apple: blue or white
+- Android standard: transparent or blue
+- Android maskable: blue or white

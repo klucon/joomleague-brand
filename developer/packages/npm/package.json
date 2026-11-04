@@ -1,0 +1,17 @@
+{
+  "name": "@joomleague/brand-assets",
+  "version": "10.0.0",
+  "description": "JoomLeague brand assets and selection metadata.",
+  "files": [
+    "assets.json",
+    "tokens",
+    "svg",
+    "README.md"
+  ],
+  "license": "GPL-3.0-or-later",
+  "exports": {
+    "./assets": "./assets.json",
+    "./tokens.css": "./tokens/joomleague-tokens.css",
+    "./symbol.svg": "./svg/joomleague-symbol-currentcolor.svg"
+  }
+}

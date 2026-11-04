@@ -1,0 +1,18 @@
+const CACHE_NAME = "joomleague-brand-v1";
+
+const PRECACHE = [
+  "/favicons/favicon.svg",
+  "/favicons/android-chrome-192x192.png",
+  "/favicons/android-chrome-512x512.png",
+  "/favicons/android-chrome-maskable-512x512.png"
+];
+
+self.addEventListener("install", event => {
+  event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(PRECACHE)));
+});
+
+self.addEventListener("fetch", event => {
+  event.respondWith(
+    caches.match(event.request).then(cached => cached || fetch(event.request))
+  );
+});

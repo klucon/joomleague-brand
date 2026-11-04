@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" method="upgrade">
+    <name>com_joomleague</name>
+    <author>JoomLeague</author>
+    <version>6.2.0</version>
+
+    <media destination="com_joomleague" folder="media">
+        <filename>images/joomleague-icon.svg</filename>
+        <filename>images/joomleague-logo.png</filename>
+    </media>
+</extension>

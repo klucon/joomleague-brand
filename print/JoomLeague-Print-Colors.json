@@ -1,0 +1,66 @@
+[
+  {
+    "name": "JoomLeague Blue",
+    "hex": "#0062A9",
+    "rgb": [
+      0,
+      98,
+      169
+    ],
+    "cmyk": [
+      100,
+      42,
+      0,
+      34
+    ],
+    "pantone": "PANTONE 307 C (approximate candidate)"
+  },
+  {
+    "name": "JoomLeague Green",
+    "hex": "#46B450",
+    "rgb": [
+      70,
+      180,
+      80
+    ],
+    "cmyk": [
+      61,
+      0,
+      56,
+      29
+    ],
+    "pantone": "PANTONE 361 C (approximate candidate)"
+  },
+  {
+    "name": "JoomLeague Orange",
+    "hex": "#F39C12",
+    "rgb": [
+      243,
+      156,
+      18
+    ],
+    "cmyk": [
+      0,
+      36,
+      93,
+      5
+    ],
+    "pantone": "PANTONE 1375 C (approximate candidate)"
+  },
+  {
+    "name": "JoomLeague Red",
+    "hex": "#E74C3C",
+    "rgb": [
+      231,
+      76,
+      60
+    ],
+    "cmyk": [
+      0,
+      67,
+      74,
+      9
+    ],
+    "pantone": "PANTONE 7417 C (approximate candidate)"
+  }
+]

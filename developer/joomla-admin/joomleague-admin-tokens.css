@@ -1,0 +1,12 @@
+:root {
+  --jl-admin-toolbar-bg: #0062A9;
+  --jl-admin-sidebar-active: #46B450;
+  --jl-admin-warning: #F39C12;
+  --jl-admin-danger: #E74C3C;
+  --jl-admin-card-radius: .875rem;
+}
+
+.com_joomleague .toolbar,
+.com_joomleague .subhead {
+  --toolbar-bg: var(--jl-admin-toolbar-bg);
+}

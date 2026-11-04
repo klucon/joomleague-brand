@@ -1,0 +1,1438 @@
+[
+  {
+    "path": ".github/workflows/validate-brand-kit.yml",
+    "size_bytes": 1724
+  },
+  {
+    "path": "README-v10.md",
+    "size_bytes": 1483
+  },
+  {
+    "path": "README.txt",
+    "size_bytes": 4549
+  },
+  {
+    "path": "badges/status/joomla-6-ready.svg",
+    "size_bytes": 510
+  },
+  {
+    "path": "badges/status/license-gpl.svg",
+    "size_bytes": 504
+  },
+  {
+    "path": "badges/status/php-8x.svg",
+    "size_bytes": 496
+  },
+  {
+    "path": "badges/status/sport-neutral.svg",
+    "size_bytes": 508
+  },
+  {
+    "path": "badges/status/tests-passing.svg",
+    "size_bytes": 508
+  },
+  {
+    "path": "badges/version/joomleague-beta.svg",
+    "size_bytes": 514
+  },
+  {
+    "path": "badges/version/joomleague-dev.svg",
+    "size_bytes": 512
+  },
+  {
+    "path": "badges/version/joomleague-rc.svg",
+    "size_bytes": 510
+  },
+  {
+    "path": "badges/version/joomleague-stable.svg",
+    "size_bytes": 518
+  },
+  {
+    "path": "banners/joomleague-banner-1920x600.png",
+    "size_bytes": 190671,
+    "width": 1920,
+    "height": 600,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "banners/joomleague-github-1280x640.png",
+    "size_bytes": 192569,
+    "width": 1280,
+    "height": 640,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "brand/accessibility-high-contrast/joomleague-high-contrast-banner-1920x600.png",
+    "size_bytes": 96758,
+    "width": 1920,
+    "height": 600,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "brand/accessibility-high-contrast/joomleague-high-contrast-github-1280x640.png",
+    "size_bytes": 78923,
+    "width": 1280,
+    "height": 640,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "brand/accessibility-high-contrast/joomleague-high-contrast-social-1200x630.png",
+    "size_bytes": 73268,
+    "width": 1200,
+    "height": 630,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "brand/dark-mode/joomleague-dark-banner-1920x600.png",
+    "size_bytes": 95010,
+    "width": 1920,
+    "height": 600,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "brand/dark-mode/joomleague-dark-github-1280x640.png",
+    "size_bytes": 76343,
+    "width": 1280,
+    "height": 640,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "brand/dark-mode/joomleague-dark-social-1200x630.png",
+    "size_bytes": 70925,
+    "width": 1200,
+    "height": 630,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "brand-manual/JoomLeague-Brand-Manual-FINAL-v8.docx",
+    "size_bytes": 1506518
+  },
+  {
+    "path": "brand-manual/JoomLeague-Brand-Manual-FINAL-v8.pdf",
+    "size_bytes": 748936
+  },
+  {
+    "path": "brand-manual/cz/JoomLeague-Brand-Manual-FINAL-v10-CZ.docx",
+    "size_bytes": 1321661
+  },
+  {
+    "path": "brand-manual/cz/JoomLeague-Brand-Manual-FINAL-v10-CZ.pdf",
+    "size_bytes": 541486
+  },
+  {
+    "path": "brand-manual/en/JoomLeague-Brand-Manual-FINAL-v10-EN.docx",
+    "size_bytes": 1321254
+  },
+  {
+    "path": "brand-manual/en/JoomLeague-Brand-Manual-FINAL-v10-EN.pdf",
+    "size_bytes": 536783
+  },
+  {
+    "path": "community/discord-forum/joomleague-category-banner.png",
+    "size_bytes": 32799,
+    "width": 1200,
+    "height": 300,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "community/discord-forum/joomleague-forum-banner.png",
+    "size_bytes": 49898,
+    "width": 1600,
+    "height": 400,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "community/discord-forum/joomleague-role-icon.png",
+    "size_bytes": 6186,
+    "width": 256,
+    "height": 256,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "community/discord-forum/joomleague-server-icon.png",
+    "size_bytes": 24983,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "developer/ai/ASSET_USAGE.md",
+    "size_bytes": 2263
+  },
+  {
+    "path": "developer/ai/VALIDATION_WORKFLOW.md",
+    "size_bytes": 461
+  },
+  {
+    "path": "developer/ai/asset-inventory-v10.json",
+    "size_bytes": 30795
+  },
+  {
+    "path": "developer/ai/asset-inventory.json",
+    "size_bytes": 10902
+  },
+  {
+    "path": "developer/ai/assets.json",
+    "size_bytes": 6399
+  },
+  {
+    "path": "developer/bootstrap/_joomleague-bootstrap-variables.scss",
+    "size_bytes": 333
+  },
+  {
+    "path": "developer/cli/README.md",
+    "size_bytes": 74
+  },
+  {
+    "path": "developer/cli/jl-asset",
+    "size_bytes": 1423
+  },
+  {
+    "path": "developer/css-components/component-examples.html",
+    "size_bytes": 137
+  },
+  {
+    "path": "developer/css-components/joomleague-components.css",
+    "size_bytes": 934
+  },
+  {
+    "path": "developer/icon-font/README.md",
+    "size_bytes": 83
+  },
+  {
+    "path": "developer/icon-font/icon-font-map.json",
+    "size_bytes": 48
+  },
+  {
+    "path": "developer/joomla-admin/joomleague-admin-tokens.css",
+    "size_bytes": 278
+  },
+  {
+    "path": "developer/linux/JoomLeague.desktop.example",
+    "size_bytes": 123
+  },
+  {
+    "path": "developer/linux/icon.svg",
+    "size_bytes": 943
+  },
+  {
+    "path": "developer/linux/joomleague-icon-128x128.png",
+    "size_bytes": 15316,
+    "width": 128,
+    "height": 128,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "developer/linux/joomleague-icon-256x256.png",
+    "size_bytes": 46035,
+    "width": 256,
+    "height": 256,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "developer/linux/joomleague-icon-512x512.png",
+    "size_bytes": 140814,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "developer/linux/joomleague-icon-64x64.png",
+    "size_bytes": 5204,
+    "width": 64,
+    "height": 64,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "developer/macos/JoomLeague.icns",
+    "size_bytes": 778753
+  },
+  {
+    "path": "developer/macos/joomleague-app-icon-1024x1024.png",
+    "size_bytes": 418431,
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "developer/packages/composer/README.md",
+    "size_bytes": 82
+  },
+  {
+    "path": "developer/packages/composer/composer.json",
+    "size_bytes": 246
+  },
+  {
+    "path": "developer/packages/composer/src/BrandAssets.php",
+    "size_bytes": 101
+  },
+  {
+    "path": "developer/packages/npm/README.md",
+    "size_bytes": 80
+  },
+  {
+    "path": "developer/packages/npm/assets.json",
+    "size_bytes": 73
+  },
+  {
+    "path": "developer/packages/npm/package.json",
+    "size_bytes": 412
+  },
+  {
+    "path": "developer/svg/joomleague-symbol-blue.svg",
+    "size_bytes": 537
+  },
+  {
+    "path": "developer/svg/joomleague-symbol-currentcolor.svg",
+    "size_bytes": 557
+  },
+  {
+    "path": "developer/svg/joomleague-symbol-flat.svg",
+    "size_bytes": 943
+  },
+  {
+    "path": "developer/svg/joomleague-symbol-monochrome.svg",
+    "size_bytes": 459
+  },
+  {
+    "path": "developer/svg/joomleague-symbol-outline.svg",
+    "size_bytes": 601
+  },
+  {
+    "path": "developer/svg/joomleague-symbol-white.svg",
+    "size_bytes": 459
+  },
+  {
+    "path": "developer/svg-sprite/SPRITE-USAGE.md",
+    "size_bytes": 73
+  },
+  {
+    "path": "developer/svg-sprite/joomleague-icons.svg",
+    "size_bytes": 555
+  },
+  {
+    "path": "developer/tokens/README.md",
+    "size_bytes": 666
+  },
+  {
+    "path": "developer/tokens/_joomleague-tokens.scss",
+    "size_bytes": 1490
+  },
+  {
+    "path": "developer/tokens/joomleague-tokens.css",
+    "size_bytes": 1949
+  },
+  {
+    "path": "developer/tokens/joomleague-tokens.json",
+    "size_bytes": 1800
+  },
+  {
+    "path": "developer/tools/README.md",
+    "size_bytes": 1121
+  },
+  {
+    "path": "developer/tools/ci-validate.sh",
+    "size_bytes": 187
+  },
+  {
+    "path": "developer/tools/validate-brand-kit.sh",
+    "size_bytes": 242
+  },
+  {
+    "path": "developer/tools/validate_brand_kit.py",
+    "size_bytes": 15343
+  },
+  {
+    "path": "developer/web-components/joomleague-icon.js",
+    "size_bytes": 504
+  },
+  {
+    "path": "developer/windows/joomleague-app-icon-256x256.png",
+    "size_bytes": 46035,
+    "width": 256,
+    "height": 256,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "developer/windows/joomleague-app-icon.ico",
+    "size_bytes": 76019,
+    "width": 256,
+    "height": 256,
+    "mode": "RGBA",
+    "format": "ICO"
+  },
+  {
+    "path": "documentation/headers/joomleague-docs-api-reference.png",
+    "size_bytes": 58973,
+    "width": 1600,
+    "height": 420,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "documentation/headers/joomleague-docs-developer-guide.png",
+    "size_bytes": 59553,
+    "width": 1600,
+    "height": 420,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "documentation/headers/joomleague-docs-migration-guide.png",
+    "size_bytes": 58944,
+    "width": 1600,
+    "height": 420,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "documentation/headers/joomleague-docs-release-notes.png",
+    "size_bytes": 58149,
+    "width": 1600,
+    "height": 420,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "documentation/headers/joomleague-docs-testing-guide.png",
+    "size_bytes": 58822,
+    "width": 1600,
+    "height": 420,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "documentation/headers/joomleague-docs-user-guide.png",
+    "size_bytes": 58837,
+    "width": 1600,
+    "height": 420,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "documents/JoomLeague-Document-Template.docx",
+    "size_bytes": 36768
+  },
+  {
+    "path": "documents/release-notes-template.md",
+    "size_bytes": 83
+  },
+  {
+    "path": "email/email-signature.html",
+    "size_bytes": 481
+  },
+  {
+    "path": "email/email-signature.txt",
+    "size_bytes": 76
+  },
+  {
+    "path": "favicons/android-chrome-144x144.png",
+    "size_bytes": 18282,
+    "width": 144,
+    "height": 144,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-192x192-blue.png",
+    "size_bytes": 26948,
+    "width": 192,
+    "height": 192,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-192x192-transparent.png",
+    "size_bytes": 28973,
+    "width": 192,
+    "height": 192,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-192x192-white.png",
+    "size_bytes": 26953,
+    "width": 192,
+    "height": 192,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-192x192.png",
+    "size_bytes": 29576,
+    "width": 192,
+    "height": 192,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-512x512-blue.png",
+    "size_bytes": 135737,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-512x512-transparent.png",
+    "size_bytes": 140814,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-512x512-white.png",
+    "size_bytes": 136905,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-512x512.png",
+    "size_bytes": 140814,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-96x96.png",
+    "size_bytes": 9775,
+    "width": 96,
+    "height": 96,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-maskable-192x192-blue.png",
+    "size_bytes": 16333,
+    "width": 192,
+    "height": 192,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-maskable-192x192-transparent.png",
+    "size_bytes": 17598,
+    "width": 192,
+    "height": 192,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-maskable-192x192-white.png",
+    "size_bytes": 16603,
+    "width": 192,
+    "height": 192,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-maskable-192x192.png",
+    "size_bytes": 16333,
+    "width": 192,
+    "height": 192,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-maskable-512x512-blue.png",
+    "size_bytes": 80327,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-maskable-512x512-transparent.png",
+    "size_bytes": 83535,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-maskable-512x512-white.png",
+    "size_bytes": 80943,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/android-chrome-maskable-512x512.png",
+    "size_bytes": 80327,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/apple-touch-icon-120x120.png",
+    "size_bytes": 11928,
+    "width": 120,
+    "height": 120,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/apple-touch-icon-152x152.png",
+    "size_bytes": 17194,
+    "width": 152,
+    "height": 152,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/apple-touch-icon-167x167.png",
+    "size_bytes": 21071,
+    "width": 167,
+    "height": 167,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/apple-touch-icon-180x180.png",
+    "size_bytes": 23923,
+    "width": 180,
+    "height": 180,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/apple-touch-icon-blue.png",
+    "size_bytes": 23600,
+    "width": 180,
+    "height": 180,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/apple-touch-icon-transparent.png",
+    "size_bytes": 24898,
+    "width": 180,
+    "height": 180,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/apple-touch-icon-white.png",
+    "size_bytes": 23923,
+    "width": 180,
+    "height": 180,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/apple-touch-icon.png",
+    "size_bytes": 23923,
+    "width": 180,
+    "height": 180,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/browserconfig.xml",
+    "size_bytes": 371
+  },
+  {
+    "path": "favicons/favicon-16x16.png",
+    "size_bytes": 592,
+    "width": 16,
+    "height": 16,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/favicon-180x180.png",
+    "size_bytes": 28488,
+    "width": 180,
+    "height": 180,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/favicon-32x32.png",
+    "size_bytes": 1675,
+    "width": 32,
+    "height": 32,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/favicon-48x48.png",
+    "size_bytes": 3369,
+    "width": 48,
+    "height": 48,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/favicon.ico",
+    "size_bytes": 11540,
+    "width": 64,
+    "height": 64,
+    "mode": "RGBA",
+    "format": "ICO"
+  },
+  {
+    "path": "favicons/favicon.svg",
+    "size_bytes": 193152
+  },
+  {
+    "path": "favicons/html-head-snippet.txt",
+    "size_bytes": 822
+  },
+  {
+    "path": "favicons/mstile-150x150.png",
+    "size_bytes": 17333,
+    "width": 150,
+    "height": 150,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/mstile-310x150.png",
+    "size_bytes": 11703,
+    "width": 310,
+    "height": 150,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/mstile-310x310.png",
+    "size_bytes": 53438,
+    "width": 310,
+    "height": 310,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/mstile-70x70.png",
+    "size_bytes": 4745,
+    "width": 70,
+    "height": 70,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "favicons/safari-pinned-tab.svg",
+    "size_bytes": 36440
+  },
+  {
+    "path": "favicons/site-blue.webmanifest",
+    "size_bytes": 822
+  },
+  {
+    "path": "favicons/site-transparent.webmanifest",
+    "size_bytes": 850
+  },
+  {
+    "path": "favicons/site-white.webmanifest",
+    "size_bytes": 826
+  },
+  {
+    "path": "favicons/site.webmanifest",
+    "size_bytes": 1062
+  },
+  {
+    "path": "favicons/usage-overview.txt",
+    "size_bytes": 1618
+  },
+  {
+    "path": "favicons/variant-notes.txt",
+    "size_bytes": 930
+  },
+  {
+    "path": "icons/joomleague-avatar-1024x1024.png",
+    "size_bytes": 370123,
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "icons/joomleague-icon-emblem-source.png",
+    "size_bytes": 805038,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "icons/joomleague-icon-simple-512x512.png",
+    "size_bytes": 161887,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "integration-examples/CODEX_INTEGRATION.md",
+    "size_bytes": 773
+  },
+  {
+    "path": "integration-examples/README.md",
+    "size_bytes": 1091
+  },
+  {
+    "path": "integration-examples/github/ASSET_MAPPING.md",
+    "size_bytes": 436
+  },
+  {
+    "path": "integration-examples/github/README.example.md",
+    "size_bytes": 566
+  },
+  {
+    "path": "integration-examples/html/index.html",
+    "size_bytes": 1261
+  },
+  {
+    "path": "integration-examples/joomla/README.md",
+    "size_bytes": 444
+  },
+  {
+    "path": "integration-examples/joomla/com_joomleague.xml.example",
+    "size_bytes": 373
+  },
+  {
+    "path": "integration-examples/joomla/joomleague-admin.css",
+    "size_bytes": 497
+  },
+  {
+    "path": "integration-examples/linux/JoomLeague.desktop",
+    "size_bytes": 158
+  },
+  {
+    "path": "integration-examples/linux/README.md",
+    "size_bytes": 719
+  },
+  {
+    "path": "integration-examples/pwa/register-service-worker.js.example",
+    "size_bytes": 146
+  },
+  {
+    "path": "integration-examples/pwa/service-worker.js.example",
+    "size_bytes": 509
+  },
+  {
+    "path": "integration-examples/pwa/site.webmanifest.example",
+    "size_bytes": 1122
+  },
+  {
+    "path": "integration-examples/windows/README.md",
+    "size_bytes": 332
+  },
+  {
+    "path": "integration-examples/windows/browserconfig.xml.example",
+    "size_bytes": 411
+  },
+  {
+    "path": "logos/joomleague-logo-compact-horizontal.png",
+    "size_bytes": 266917,
+    "width": 1600,
+    "height": 500,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "logos/joomleague-logo-monochrome-black.png",
+    "size_bytes": 101679,
+    "width": 2103,
+    "height": 665,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "logos/joomleague-logo-monochrome-white.png",
+    "size_bytes": 102482,
+    "width": 2103,
+    "height": 665,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "logos/joomleague-logo-on-dark.png",
+    "size_bytes": 227160,
+    "width": 1600,
+    "height": 500,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "logos/joomleague-logo-on-light.png",
+    "size_bytes": 228978,
+    "width": 1600,
+    "height": 500,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "logos/joomleague-logo-standard-transparent.png",
+    "size_bytes": 483875,
+    "width": 2048,
+    "height": 768,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "manifest.json",
+    "size_bytes": 7121
+  },
+  {
+    "path": "marketplace/joomla/JED-LISTING-COPY.md",
+    "size_bytes": 399
+  },
+  {
+    "path": "marketplace/joomla/joomleague-jed-icon.png",
+    "size_bytes": 26594,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "marketplace/joomla/joomleague-jed-main.png",
+    "size_bytes": 70500,
+    "width": 1200,
+    "height": 675,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "marketplace/joomla/joomleague-marketplace-card.png",
+    "size_bytes": 51103,
+    "width": 900,
+    "height": 600,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "marketplace/joomla/joomleague-release-download-header.png",
+    "size_bytes": 71228,
+    "width": 1600,
+    "height": 500,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "media-kit/JoomLeague-Media-Kit-Onepager.pdf",
+    "size_bytes": 784065
+  },
+  {
+    "path": "media-kit/MEDIA-KIT.md",
+    "size_bytes": 82
+  },
+  {
+    "path": "newsletter/joomleague-newsletter-header.png",
+    "size_bytes": 49936,
+    "width": 1200,
+    "height": 400,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "newsletter/joomleague-release-newsletter.png",
+    "size_bytes": 64520,
+    "width": 1200,
+    "height": 500,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "newsletter/joomleague-security-newsletter.png",
+    "size_bytes": 65177,
+    "width": 1200,
+    "height": 500,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "presentation/JoomLeague-Presentation-Template.pptx",
+    "size_bytes": 1310240
+  },
+  {
+    "path": "press-kit/PRESS-README.md",
+    "size_bytes": 498
+  },
+  {
+    "path": "press-kit/joomleague-logo.png",
+    "size_bytes": 483875,
+    "width": 2048,
+    "height": 768,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "press-kit/joomleague-social-preview.png",
+    "size_bytes": 173882,
+    "width": 1200,
+    "height": 630,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "press-kit/joomleague-symbol.png",
+    "size_bytes": 805038,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "preview/joomleague-brand-preview-final.png",
+    "size_bytes": 1702562,
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "format": "PNG"
+  },
+  {
+    "path": "print/JoomLeague-Print-Colors.csv",
+    "size_bytes": 392
+  },
+  {
+    "path": "print/JoomLeague-Print-Colors.json",
+    "size_bytes": 909
+  },
+  {
+    "path": "print/JoomLeague-Print-Reference.pdf",
+    "size_bytes": 734566
+  },
+  {
+    "path": "print/bleed-templates/joomleague-a3-bleed-template.png",
+    "size_bytes": 437357,
+    "width": 3508,
+    "height": 4961,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "print/bleed-templates/joomleague-a4-bleed-template.png",
+    "size_bytes": 249100,
+    "width": 2480,
+    "height": 3508,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "print/bleed-templates/joomleague-businesscard-bleed-template.png",
+    "size_bytes": 41481,
+    "width": 1050,
+    "height": 600,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "print/bleed-templates/joomleague-dl-bleed-template.png",
+    "size_bytes": 97819,
+    "width": 1240,
+    "height": 2598,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "print/cmyk/joomleague-logo-CMYK-300dpi.tif",
+    "size_bytes": 950188,
+    "width": 2048,
+    "height": 768,
+    "mode": "CMYK",
+    "format": "TIFF"
+  },
+  {
+    "path": "print/cmyk/joomleague-logo-CMYK-proof.jpg",
+    "size_bytes": 329550,
+    "width": 2048,
+    "height": 768,
+    "mode": "CMYK",
+    "format": "JPEG"
+  },
+  {
+    "path": "print/cmyk/joomleague-symbol-CMYK-300dpi.tif",
+    "size_bytes": 1868096,
+    "width": 1254,
+    "height": 1254,
+    "mode": "CMYK",
+    "format": "TIFF"
+  },
+  {
+    "path": "print/monochrome/joomleague-logo-monochrome-black-CMYK-300dpi.tif",
+    "size_bytes": 207656,
+    "width": 2048,
+    "height": 768,
+    "mode": "CMYK",
+    "format": "TIFF"
+  },
+  {
+    "path": "print/monochrome/joomleague-logo-monochrome-white-CMYK-300dpi.tif",
+    "size_bytes": 240114,
+    "width": 2048,
+    "height": 768,
+    "mode": "CMYK",
+    "format": "TIFF"
+  },
+  {
+    "path": "print/pantone-reference/PANTONE-REFERENCE.md",
+    "size_bytes": 586
+  },
+  {
+    "path": "production/embroidery/README.md",
+    "size_bytes": 113
+  },
+  {
+    "path": "production/embroidery/joomleague-symbol-simplified.svg",
+    "size_bytes": 471
+  },
+  {
+    "path": "production/laser-cnc-vinyl/README.md",
+    "size_bytes": 108
+  },
+  {
+    "path": "production/laser-cnc-vinyl/joomleague-symbol-simplified.svg",
+    "size_bytes": 471
+  },
+  {
+    "path": "production/monochrome/joomleague-symbol-black.png",
+    "size_bytes": 85224,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "production/monochrome/joomleague-symbol-black.svg",
+    "size_bytes": 272
+  },
+  {
+    "path": "production/monochrome/joomleague-symbol-white.png",
+    "size_bytes": 86494,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "production/monochrome/joomleague-symbol-white.svg",
+    "size_bytes": 272
+  },
+  {
+    "path": "production/signage/joomleague-a4-poster-2480x3508.png",
+    "size_bytes": 284920,
+    "width": 2480,
+    "height": 3508,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "production/signage/joomleague-wide-signage-3840x1200.png",
+    "size_bytes": 280783,
+    "width": 3840,
+    "height": 1200,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "releases/templates/joomleague-beta-release-card.png",
+    "size_bytes": 111069,
+    "width": 1600,
+    "height": 900,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "releases/templates/joomleague-beta-social-release.png",
+    "size_bytes": 70824,
+    "width": 1200,
+    "height": 630,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "releases/templates/joomleague-dev-release-card.png",
+    "size_bytes": 111877,
+    "width": 1600,
+    "height": 900,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "releases/templates/joomleague-dev-social-release.png",
+    "size_bytes": 71373,
+    "width": 1200,
+    "height": 630,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "releases/templates/joomleague-rc-release-card.png",
+    "size_bytes": 113478,
+    "width": 1600,
+    "height": 900,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "releases/templates/joomleague-rc-social-release.png",
+    "size_bytes": 72593,
+    "width": 1200,
+    "height": 630,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "releases/templates/joomleague-stable-release-card.png",
+    "size_bytes": 114421,
+    "width": 1600,
+    "height": 900,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "releases/templates/joomleague-stable-social-release.png",
+    "size_bytes": 73326,
+    "width": 1200,
+    "height": 630,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "social/joomleague-social-1200x630.png",
+    "size_bytes": 173882,
+    "width": 1200,
+    "height": 630,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "social-media/joomleague-bluesky-banner.png",
+    "size_bytes": 69912,
+    "width": 1500,
+    "height": 500,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "social-media/joomleague-discord-banner.png",
+    "size_bytes": 52102,
+    "width": 960,
+    "height": 540,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "social-media/joomleague-facebook-cover.png",
+    "size_bytes": 97695,
+    "width": 1640,
+    "height": 624,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "social-media/joomleague-linkedin-cover.png",
+    "size_bytes": 51016,
+    "width": 1584,
+    "height": 396,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "social-media/joomleague-mastodon-header.png",
+    "size_bytes": 69959,
+    "width": 1500,
+    "height": 500,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "social-media/joomleague-reddit-banner.png",
+    "size_bytes": 49808,
+    "width": 1920,
+    "height": 384,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "social-media/joomleague-square-post.png",
+    "size_bytes": 78364,
+    "width": 1080,
+    "height": 1080,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "social-media/joomleague-x-header.png",
+    "size_bytes": 69202,
+    "width": 1500,
+    "height": 500,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "sources/README.md",
+    "size_bytes": 599
+  },
+  {
+    "path": "sources/adobe/README.md",
+    "size_bytes": 496
+  },
+  {
+    "path": "sources/adobe/joomleague-logo-approved-raster.png",
+    "size_bytes": 483875,
+    "width": 2048,
+    "height": 768,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "sources/adobe/joomleague-symbol-flat.eps",
+    "size_bytes": 135332
+  },
+  {
+    "path": "sources/adobe/joomleague-symbol-flat.pdf",
+    "size_bytes": 2854
+  },
+  {
+    "path": "sources/adobe/joomleague-symbol-flat.svg",
+    "size_bytes": 943
+  },
+  {
+    "path": "sources/adobe/joomleague-symbol-outline.eps",
+    "size_bytes": 3059
+  },
+  {
+    "path": "sources/adobe/joomleague-symbol-outline.pdf",
+    "size_bytes": 1275
+  },
+  {
+    "path": "sources/adobe/joomleague-symbol-outline.svg",
+    "size_bytes": 601
+  },
+  {
+    "path": "sources/figma/IMPORT_TO_FIGMA.md",
+    "size_bytes": 627
+  },
+  {
+    "path": "sources/figma/figma-color-styles.json",
+    "size_bytes": 132
+  },
+  {
+    "path": "sources/figma/joomleague-logo-highres.png",
+    "size_bytes": 483875,
+    "width": 2048,
+    "height": 768,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "sources/figma/joomleague-symbol-currentcolor.svg",
+    "size_bytes": 557
+  },
+  {
+    "path": "sources/figma/joomleague-symbol-flat.svg",
+    "size_bytes": 943
+  },
+  {
+    "path": "sources/figma/joomleague-symbol-outline.svg",
+    "size_bytes": 601
+  },
+  {
+    "path": "sources/master/JoomLeague-Vector-Symbol-Master.svg",
+    "size_bytes": 943
+  },
+  {
+    "path": "sources/master/joomleague-logo-raster-master.png",
+    "size_bytes": 483875,
+    "width": 2048,
+    "height": 768,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "sources/master/joomleague-symbol-currentcolor-master.svg",
+    "size_bytes": 557
+  },
+  {
+    "path": "sources/master/joomleague-symbol-flat-master.svg",
+    "size_bytes": 943
+  },
+  {
+    "path": "sources/master/joomleague-symbol-glossy-raster-master.png",
+    "size_bytes": 805038,
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "sources/master/joomleague-symbol-outline-master.svg",
+    "size_bytes": 601
+  },
+  {
+    "path": "validation-reports/validation-report.json",
+    "size_bytes": 8138
+  },
+  {
+    "path": "validation-reports/validation-report.md",
+    "size_bytes": 7401
+  },
+  {
+    "path": "validation-reports-v10/validation-report.json",
+    "size_bytes": 8637
+  },
+  {
+    "path": "validation-reports-v10/validation-report.md",
+    "size_bytes": 7872
+  },
+  {
+    "path": "youtube/joomleague-youtube-banner.png",
+    "size_bytes": 224949,
+    "width": 2560,
+    "height": 1440,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "youtube/joomleague-youtube-end-screen.png",
+    "size_bytes": 145542,
+    "width": 1920,
+    "height": 1080,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "youtube/joomleague-youtube-thumbnail-template.png",
+    "size_bytes": 78598,
+    "width": 1280,
+    "height": 720,
+    "mode": "RGBA",
+    "format": "PNG"
+  },
+  {
+    "path": "youtube/joomleague-youtube-watermark.png",
+    "size_bytes": 6949,
+    "width": 150,
+    "height": 150,
+    "mode": "RGBA",
+    "format": "PNG"
+  }
+]

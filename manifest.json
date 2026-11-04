@@ -1,0 +1,422 @@
+{
+  "manifest.json": {
+    "format": "JSON"
+  },
+  "README.txt": {
+    "format": "TXT"
+  },
+  "favicons/safari-pinned-tab.svg": {
+    "format": "SVG"
+  },
+  "favicons/android-chrome-maskable-192x192-white.png": {
+    "format": "PNG",
+    "size": [
+      192,
+      192
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-maskable-192x192-transparent.png": {
+    "format": "PNG",
+    "size": [
+      192,
+      192
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/usage-overview.txt": {
+    "format": "TXT"
+  },
+  "favicons/mstile-310x310.png": {
+    "format": "PNG",
+    "size": [
+      310,
+      310
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/apple-touch-icon-white.png": {
+    "format": "PNG",
+    "size": [
+      180,
+      180
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-512x512.png": {
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/apple-touch-icon-167x167.png": {
+    "format": "PNG",
+    "size": [
+      167,
+      167
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/apple-touch-icon.png": {
+    "format": "PNG",
+    "size": [
+      180,
+      180
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-512x512-white.png": {
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/site-blue.webmanifest": {
+    "format": "WEBMANIFEST"
+  },
+  "favicons/android-chrome-192x192-white.png": {
+    "format": "PNG",
+    "size": [
+      192,
+      192
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/apple-touch-icon-blue.png": {
+    "format": "PNG",
+    "size": [
+      180,
+      180
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-96x96.png": {
+    "format": "PNG",
+    "size": [
+      96,
+      96
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-maskable-512x512.png": {
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-512x512-blue.png": {
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-192x192-blue.png": {
+    "format": "PNG",
+    "size": [
+      192,
+      192
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/mstile-310x150.png": {
+    "format": "PNG",
+    "size": [
+      310,
+      150
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/apple-touch-icon-180x180.png": {
+    "format": "PNG",
+    "size": [
+      180,
+      180
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/favicon-48x48.png": {
+    "format": "PNG",
+    "size": [
+      48,
+      48
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-144x144.png": {
+    "format": "PNG",
+    "size": [
+      144,
+      144
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-192x192-transparent.png": {
+    "format": "PNG",
+    "size": [
+      192,
+      192
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/site.webmanifest": {
+    "format": "WEBMANIFEST"
+  },
+  "favicons/android-chrome-maskable-512x512-white.png": {
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/site-white.webmanifest": {
+    "format": "WEBMANIFEST"
+  },
+  "favicons/favicon.svg": {
+    "format": "SVG"
+  },
+  "favicons/android-chrome-192x192.png": {
+    "format": "PNG",
+    "size": [
+      192,
+      192
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/site-transparent.webmanifest": {
+    "format": "WEBMANIFEST"
+  },
+  "favicons/apple-touch-icon-120x120.png": {
+    "format": "PNG",
+    "size": [
+      120,
+      120
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-maskable-192x192.png": {
+    "format": "PNG",
+    "size": [
+      192,
+      192
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-maskable-512x512-transparent.png": {
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/favicon-16x16.png": {
+    "format": "PNG",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/html-head-snippet.txt": {
+    "format": "TXT"
+  },
+  "favicons/browserconfig.xml": {
+    "format": "XML"
+  },
+  "favicons/favicon.ico": {
+    "format": "ICO",
+    "size": [
+      64,
+      64
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-512x512-transparent.png": {
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/variant-notes.txt": {
+    "format": "TXT"
+  },
+  "favicons/favicon-180x180.png": {
+    "format": "PNG",
+    "size": [
+      180,
+      180
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/favicon-32x32.png": {
+    "format": "PNG",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/mstile-70x70.png": {
+    "format": "PNG",
+    "size": [
+      70,
+      70
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/apple-touch-icon-transparent.png": {
+    "format": "PNG",
+    "size": [
+      180,
+      180
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-maskable-192x192-blue.png": {
+    "format": "PNG",
+    "size": [
+      192,
+      192
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/android-chrome-maskable-512x512-blue.png": {
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/apple-touch-icon-152x152.png": {
+    "format": "PNG",
+    "size": [
+      152,
+      152
+    ],
+    "mode": "RGBA"
+  },
+  "favicons/mstile-150x150.png": {
+    "format": "PNG",
+    "size": [
+      150,
+      150
+    ],
+    "mode": "RGBA"
+  },
+  "preview/joomleague-brand-preview-final.png": {
+    "format": "PNG",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB"
+  },
+  "logos/joomleague-logo-monochrome-white.png": {
+    "format": "PNG",
+    "size": [
+      2103,
+      665
+    ],
+    "mode": "RGBA"
+  },
+  "logos/joomleague-logo-on-dark.png": {
+    "format": "PNG",
+    "size": [
+      1600,
+      500
+    ],
+    "mode": "RGBA"
+  },
+  "logos/joomleague-logo-compact-horizontal.png": {
+    "format": "PNG",
+    "size": [
+      1600,
+      500
+    ],
+    "mode": "RGBA"
+  },
+  "logos/joomleague-logo-on-light.png": {
+    "format": "PNG",
+    "size": [
+      1600,
+      500
+    ],
+    "mode": "RGBA"
+  },
+  "logos/joomleague-logo-standard-transparent.png": {
+    "format": "PNG",
+    "size": [
+      2048,
+      768
+    ],
+    "mode": "RGBA"
+  },
+  "logos/joomleague-logo-monochrome-black.png": {
+    "format": "PNG",
+    "size": [
+      2103,
+      665
+    ],
+    "mode": "RGBA"
+  },
+  "banners/joomleague-banner-1920x600.png": {
+    "format": "PNG",
+    "size": [
+      1920,
+      600
+    ],
+    "mode": "RGBA"
+  },
+  "banners/joomleague-github-1280x640.png": {
+    "format": "PNG",
+    "size": [
+      1280,
+      640
+    ],
+    "mode": "RGBA"
+  },
+  "icons/joomleague-icon-simple-512x512.png": {
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "icons/joomleague-avatar-1024x1024.png": {
+    "format": "PNG",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  "icons/joomleague-icon-emblem-source.png": {
+    "format": "PNG",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA"
+  },
+  "social/joomleague-social-1200x630.png": {
+    "format": "PNG",
+    "size": [
+      1200,
+      630
+    ],
+    "mode": "RGBA"
+  }
+}

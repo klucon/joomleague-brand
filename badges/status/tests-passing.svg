@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="28" viewBox="0 0 146 28" role="img" aria-label="Tests: Passing">
+  <rect width="70" height="28" fill="#172033"/>
+  <rect x="70" width="76" height="28" fill="#46B450"/>
+  <text x="35.0" y="18" text-anchor="middle" fill="#fff" font-family="Verdana, Arial, sans-serif" font-size="11">Tests</text>
+  <text x="108.0" y="18" text-anchor="middle" fill="#fff" font-family="Verdana, Arial, sans-serif" font-size="11" font-weight="bold">Passing</text>
+</svg>

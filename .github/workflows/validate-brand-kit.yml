@@ -1,0 +1,67 @@
+name: Validate JoomLeague Brand Kit
+
+on:
+  push:
+    paths:
+      - "favicons/**"
+      - "icons/**"
+      - "logos/**"
+      - "banners/**"
+      - "social/**"
+      - "developer/**"
+      - "brand-manual/**"
+      - "integration-examples/**"
+      - ".github/workflows/validate-brand-kit.yml"
+  pull_request:
+    paths:
+      - "favicons/**"
+      - "icons/**"
+      - "logos/**"
+      - "banners/**"
+      - "social/**"
+      - "developer/**"
+      - "brand-manual/**"
+      - "integration-examples/**"
+      - ".github/workflows/validate-brand-kit.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-brand-kit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: python -m pip install --upgrade pillow
+
+      - name: Validate brand kit
+        run: |
+          python developer/tools/validate_brand_kit.py             .             --report both             --output-dir validation-reports
+
+      - name: Add report to job summary
+        if: always()
+        shell: bash
+        run: |
+          if [[ -f validation-reports/validation-report.md ]]; then
+            cat validation-reports/validation-report.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "Validation report was not generated." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload validation reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: joomleague-brand-validation-report
+          path: validation-reports/
+          if-no-files-found: warn

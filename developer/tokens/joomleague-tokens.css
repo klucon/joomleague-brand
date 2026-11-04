@@ -1,0 +1,81 @@
+/* JoomLeague Design Tokens
+ * Sport-neutral brand system.
+ * Generated for FINAL v8 Complete.
+ */
+
+:root {
+  /* Brand */
+  --jl-color-blue: #0062A9;
+  --jl-color-green: #46B450;
+  --jl-color-orange: #F39C12;
+  --jl-color-red: #E74C3C;
+
+  /* Neutral surfaces */
+  --jl-color-white: #FFFFFF;
+  --jl-color-black: #111827;
+  --jl-color-surface: #F8FBFE;
+  --jl-color-surface-muted: #EEF4F8;
+  --jl-color-border: #D7E1E8;
+  --jl-color-text: #172033;
+  --jl-color-text-muted: #5D6B7B;
+
+  /* Semantic aliases */
+  --jl-color-primary: var(--jl-color-blue);
+  --jl-color-success: var(--jl-color-green);
+  --jl-color-warning: var(--jl-color-orange);
+  --jl-color-danger: var(--jl-color-red);
+
+  /* Brand gradients */
+  --jl-gradient-brand: linear-gradient(
+    90deg,
+    var(--jl-color-blue) 0%,
+    var(--jl-color-green) 33%,
+    var(--jl-color-orange) 66%,
+    var(--jl-color-red) 100%
+  );
+
+  /* Typography */
+  --jl-font-family-sans: Inter, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --jl-font-weight-regular: 400;
+  --jl-font-weight-medium: 500;
+  --jl-font-weight-semibold: 600;
+  --jl-font-weight-bold: 700;
+
+  /* Spacing */
+  --jl-space-1: 0.25rem;
+  --jl-space-2: 0.5rem;
+  --jl-space-3: 0.75rem;
+  --jl-space-4: 1rem;
+  --jl-space-5: 1.5rem;
+  --jl-space-6: 2rem;
+  --jl-space-7: 3rem;
+  --jl-space-8: 4rem;
+
+  /* Radius */
+  --jl-radius-sm: 0.25rem;
+  --jl-radius-md: 0.5rem;
+  --jl-radius-lg: 0.875rem;
+  --jl-radius-pill: 9999px;
+
+  /* Icon sizes */
+  --jl-icon-xs: 1rem;
+  --jl-icon-sm: 1.25rem;
+  --jl-icon-md: 1.5rem;
+  --jl-icon-lg: 2rem;
+  --jl-icon-xl: 3rem;
+
+  /* Focus */
+  --jl-focus-ring: 0 0 0 3px rgba(0, 98, 169, 0.28);
+
+  /* Minimum logo clear-space helper */
+  --jl-logo-clear-space: 0.5em;
+}
+
+/* Recommended dark-surface aliases */
+[data-jl-theme="dark"] {
+  --jl-color-surface: #0B1F33;
+  --jl-color-surface-muted: #122A42;
+  --jl-color-border: #29445E;
+  --jl-color-text: #FFFFFF;
+  --jl-color-text-muted: #C7D5E1;
+}

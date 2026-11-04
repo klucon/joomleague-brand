@@ -1,0 +1,93 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "joomleague": {
+    "color": {
+      "brand": {
+        "blue": {
+          "$type": "color",
+          "$value": "#0062A9"
+        },
+        "green": {
+          "$type": "color",
+          "$value": "#46B450"
+        },
+        "orange": {
+          "$type": "color",
+          "$value": "#F39C12"
+        },
+        "red": {
+          "$type": "color",
+          "$value": "#E74C3C"
+        }
+      },
+      "surface": {
+        "$type": "color",
+        "$value": "#F8FBFE"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "#172033"
+      },
+      "border": {
+        "$type": "color",
+        "$value": "#D7E1E8"
+      }
+    },
+    "font": {
+      "family": {
+        "sans": {
+          "$type": "fontFamily",
+          "$value": [
+            "Inter",
+            "Segoe UI",
+            "Roboto",
+            "Helvetica",
+            "Arial",
+            "sans-serif"
+          ]
+        }
+      },
+      "weight": {
+        "regular": {
+          "$type": "fontWeight",
+          "$value": 400
+        },
+        "medium": {
+          "$type": "fontWeight",
+          "$value": 500
+        },
+        "semibold": {
+          "$type": "fontWeight",
+          "$value": 600
+        },
+        "bold": {
+          "$type": "fontWeight",
+          "$value": 700
+        }
+      }
+    },
+    "radius": {
+      "sm": {
+        "$type": "dimension",
+        "$value": {
+          "value": 4,
+          "unit": "px"
+        }
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": {
+          "value": 8,
+          "unit": "px"
+        }
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": {
+          "value": 14,
+          "unit": "px"
+        }
+      }
+    }
+  }
+}
